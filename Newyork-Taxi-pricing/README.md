@@ -7,9 +7,9 @@
 
 - 대용량 데이터의 아키텍쳐 설계와 파이프라인 구축을 위해 택시 요금을 예측한다.
 
-### [🔗 Batch Processing](https://github.com/dustin-kang/newyork-taxi-pricing-predict/tree/main/batch)
+### [🔗 Batch Processing](https://github.com/dustin-kang/data-science/tree/main/Newyork-Taxi-pricing/batch)
  
-### [🔗 Stream Processing](https://github.com/dustin-kang/newyork-taxi-pricing-predict/tree/main/stream)
+### [🔗 Stream Processing](https://github.com/dustin-kang/data-science/tree/main/Newyork-Taxi-pricing/stream)
 
 # File Tree
 ```py
